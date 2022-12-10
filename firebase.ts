@@ -5,7 +5,7 @@ import {
   doc,
   getFirestore,
   updateDoc,
-} from "https://cdn.skypack.dev/firebase@9.13.0/firestore";
+} from "https://cdn.skypack.dev/firebase@9.15.0/firestore";
 import { USERS } from "./constant.ts";
 
 const firebaseConfig = {
